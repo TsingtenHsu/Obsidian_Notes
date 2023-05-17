@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "6a0af2558162110a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a906931d30ecb6e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37a6757888fcc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 课程/01 大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "dbd82761993b1d2e"
+          }
+        ]
+      },
+      {
+        "id": "147fa34f6930872d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011b3bab1cbbe5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 课程/01 大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "dbd82761993b1d2e"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2699cc0d6da4b842",
+    "type": "split",
+    "children": [
+      {
+        "id": "273a276f5a574c34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3d21d80c3189c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "191c58bd9c4b8207",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7434e7eec670061a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "c03ec43e20eba032",
+    "type": "split",
+    "children": [
+      {
+        "id": "91647725fafcc66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6082a43fbf61ee6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 课程/01 大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bc4a42f281ffea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 课程/01 大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2e026b9385d36b5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c8396bb2c6e5fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 课程/01 大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md"
+              }
+            }
+          },
+          {
+            "id": "97edb5db52269915",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.8333435058594
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "011b3bab1cbbe5f1",
+  "lastOpenFiles": [
+    "01 课程/01 大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/00 课程简介 @媒体信息检索与分析.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/民间艺术采风 @郑湛/00 课程简介 @民间艺术采风.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/存档文件 @数字图像处理.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/新媒体艺术史 @刘思捷/平时作业 @新媒体艺术史.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/00 课程简介 @数字图像处理.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/考试作业 @数字图像处理.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/考试作业 @媒体信息检索与分析.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/设计美学 @郑湛/结课考试 @设计美学.md",
+    "01 课程/01 大学/2022-2023/2022-2023-1/新媒体艺术史 @刘思捷/00 课程简介 @新媒体艺术史.md"
+  ]
+}

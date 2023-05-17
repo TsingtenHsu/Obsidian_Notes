@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "6a0af2558162110a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7f4fea823e43e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37a6757888fcc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_影视后期/02_素材拍摄_影视后期工作流.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2699cc0d6da4b842",
+    "type": "split",
+    "children": [
+      {
+        "id": "273a276f5a574c34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3d21d80c3189c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "191c58bd9c4b8207",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7434e7eec670061a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2932fafc3300eee3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "c03ec43e20eba032",
+    "type": "split",
+    "children": [
+      {
+        "id": "91647725fafcc66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc4a42f281ffea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06_影视后期/02_素材拍摄_影视后期工作流.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c8396bb2c6e5fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06_影视后期/02_素材拍摄_影视后期工作流.md"
+              }
+            }
+          },
+          {
+            "id": "a6c8f928587183ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c5ff89687d6ef41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6082a43fbf61ee6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06_影视后期/02_素材拍摄_影视后期工作流.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e026b9385d36b5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.8333435058594
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "b37a6757888fcc95",
+  "lastOpenFiles": [
+    "06_影视后期/03_素材整理_影视后期工作流.md",
+    "06_影视后期/01_Media Archive/The Capturing Process_230517.png",
+    "06_影视后期/02_素材拍摄_影视后期工作流.md",
+    "06_影视后期/01_Media Archive",
+    "04_五笔输入法/00_Media archive/未命名",
+    "Pasted image 20230517233014.png",
+    "06_影视后期/01_工作流_影视后期.md",
+    "06_影视后期/01_工作流_影视后期",
+    "04_五笔输入法/01_Media Archive/01 Literatures/经典五笔教程.pdf",
+    "04_五笔输入法/01_Media Archive/01 Literatures/五笔学习完整教程.pdf",
+    "04_五笔输入法/01_Media Archive/02 Images/五笔字根表.jpg",
+    "06_影视后期/08_声音效果_影视后期工作流.md",
+    "06_影视后期/09_项目交付_影视后期工作流.md",
+    "06_影视后期/07_影视校色_影视后期工作流.md",
+    "06_影视后期/06_视觉效果_影视后期工作流.md",
+    "06_影视后期/05_套底_影视后期工作流.md",
+    "06_影视后期/04_影视剪辑_影视后期工作流.md",
+    "06_影视后期",
+    "01 Daily notes/2023-05-01-星期一.md",
+    "01 Daily notes",
+    "未命名.canvas",
+    "05_git",
+    "02_Knowledge Management/文件管理.md",
+    "01_English/00_文章/03 Failing the poor.md",
+    "未命名.md",
+    "04_五笔输入法/五笔输入法.md",
+    "03_驾照/未命名.canvas",
+    "03_驾照/00 大纲/00 大纲.md",
+    "03_驾照/02 科目二/00 考试.md",
+    "03_驾照/02 科目二/01 倒车入库.md",
+    "01_English/01_英语语法综述/03_句型/01_简单句/02_主语 + 单及物动词 + 宾语.md",
+    "01_English/01_英语语法综述/03_句型/01_简单句/03_主语 + 双及物动词 + 间接宾语 + 直接宾语.md"
+  ]
+}

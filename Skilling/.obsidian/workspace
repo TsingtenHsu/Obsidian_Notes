@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6a0af2558162110a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e418336821ebc86b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/精读英语/00 文章/03 Failing the poor.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        },
+        "group": "c60793aa7fde7de0"
+      },
+      {
+        "id": "69f72cbddc19f070",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/精读英语/00 文章/03 Failing the poor.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        },
+        "group": "c60793aa7fde7de0"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2699cc0d6da4b842",
+    "type": "split",
+    "children": [
+      {
+        "id": "273a276f5a574c34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3d21d80c3189c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "191c58bd9c4b8207",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7434e7eec670061a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "c03ec43e20eba032",
+    "type": "split",
+    "children": [
+      {
+        "id": "91647725fafcc66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6082a43fbf61ee6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/精读英语/00 文章/03 Failing the poor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2bc4a42f281ffea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/精读英语/00 文章/03 Failing the poor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2e026b9385d36b5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c8396bb2c6e5fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/精读英语/00 文章/03 Failing the poor.md"
+              }
+            }
+          },
+          {
+            "id": "97edb5db52269915",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.8333435058594
+  },
+  "active": "69f72cbddc19f070",
+  "lastOpenFiles": [
+    "English/精读英语/01 词汇/allegedly.md",
+    "English/精读英语/01 词汇/aloft.md",
+    "English/精读英语/01 词汇/asset.md",
+    "English/精读英语/01 词汇/cash.md",
+    "English/精读英语/01 词汇/cobweb.md",
+    "English/精读英语/01 词汇/contract.md",
+    "English/精读英语/01 词汇/compare.md",
+    "English/精读英语/01 词汇/coal.md",
+    "English/精读英语/01 词汇/chum.md",
+    "English/精读英语/00 文章/03 Failing the poor.md"
+  ]
+}

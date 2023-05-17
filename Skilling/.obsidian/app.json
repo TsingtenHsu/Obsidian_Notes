@@ -1,0 +1,22 @@
+{
+  "defaultViewMode": "source",
+  "trashOption": "local",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "autoPairMarkdown": true,
+  "newFileLocation": "root",
+  "spellcheck": true,
+  "showLineNumber": false,
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
