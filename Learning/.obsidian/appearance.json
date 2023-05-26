@@ -1,7 +1,9 @@
 {
+  "cssTheme": "Obsidian Nord",
+  "translucency": false,
   "theme": "system",
-  "cssTheme": "Minimal",
-  "accentColor": "",
-  "baseFontSize": 23,
-  "textFontFamily": "思源黑体 CN"
+  "baseFontSize": 18,
+  "textFontFamily": "",
+  "accentColor": "#6b8695",
+  "interfaceFontFamily": "苹方-简"
 }

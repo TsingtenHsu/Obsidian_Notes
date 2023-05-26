@@ -1,7 +1,8 @@
 [
   "file-explorer-note-count",
-  "calendar",
   "obsidian-style-settings",
   "obsidian-mind-map",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "dataview",
+  "calendar"
 ]
