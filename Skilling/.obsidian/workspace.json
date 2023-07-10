@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕设答辩注意点.md",
+                "file": "02_Knowledge Management/文件管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -65,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b76fa323a982be76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕设答辩注意点.md",
+                "file": "02_Knowledge Management/文件管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毕设答辩注意点.md",
+                "file": "02_Knowledge Management/文件管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕设答辩注意点.md"
+                "file": "02_Knowledge Management/文件管理.md"
               }
             }
           },
@@ -155,10 +163,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b37a6757888fcc95",
+  "active": "9d3d21d80c3189c8",
   "lastOpenFiles": [
-    "Pasted image 20230519165845.png",
     "毕设答辩注意点.md",
+    "00_Media",
+    "共同富裕.md",
+    "Pasted image 20230519165845.png",
     "Pasted image 20230524191933.png",
     "06_影视后期/03_素材整理_影视后期工作流.md",
     "Pasted image 20230524193554.png",
@@ -182,8 +192,8 @@
     "06_影视后期/01_Media Archive",
     "04_五笔输入法/00_Media archive/未命名",
     "06_影视后期/01_工作流_影视后期",
-    "04_五笔输入法/01_Media Archive/01 Literatures/经典五笔教程.pdf",
-    "04_五笔输入法/01_Media Archive/01 Literatures/五笔学习完整教程.pdf",
+    "00_Media/02_Document/经典五笔教程.pdf",
+    "00_Media/02_Document/五笔学习完整教程.pdf",
     "06_影视后期/08_声音效果_影视后期工作流.md",
     "06_影视后期/09_项目交付_影视后期工作流.md",
     "06_影视后期/07_影视校色_影视后期工作流.md",
@@ -200,7 +210,6 @@
     "03_驾照/00 大纲/00 大纲.md",
     "03_驾照/02 科目二/00 考试.md",
     "03_驾照/02 科目二/01 倒车入库.md",
-    "01_English/01_英语语法综述/03_句型/01_简单句/02_主语 + 单及物动词 + 宾语.md",
-    "01_English/01_英语语法综述/03_句型/01_简单句/03_主语 + 双及物动词 + 间接宾语 + 直接宾语.md"
+    "01_English/01_英语语法综述/03_句型/01_简单句/02_主语 + 单及物动词 + 宾语.md"
   ]
 }

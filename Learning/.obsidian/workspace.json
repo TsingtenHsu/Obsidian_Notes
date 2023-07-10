@@ -11,13 +11,8 @@
             "id": "b37a6757888fcc95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕设答辩注意点.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "51e78957bcb80343",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕设答辩注意点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毕设答辩注意点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "毕设答辩注意点.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,20 +154,38 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b37a6757888fcc95",
+  "active": "9d3d21d80c3189c8",
   "lastOpenFiles": [
-    "Pasted image 20230519165845.png",
+    "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/00 课程简介 @媒体信息检索与分析.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/考试作业 @媒体信息检索与分析.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/新媒体艺术史 @刘思捷/平时作业 @新媒体艺术史.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/新媒体艺术史 @刘思捷/00 课程简介 @新媒体艺术史.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/考试作业 @数字图像处理.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/存档文件 @数字图像处理.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/00 课程简介 @数字图像处理.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/设计美学 @郑湛/结课考试 @设计美学.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/设计美学 @郑湛/00 课程简介 @设计美学.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md",
+    "03_Course/01_大学/2022-2023/2022-2023-1/民间艺术采风 @郑湛/00 课程简介 @民间艺术采风.md",
+    "00_Media/01_Picture/Pasted image 20230519165845.png",
     "毕设答辩注意点.md",
-    "Pasted image 20230524191933.png",
+    "未命名.md",
+    "00_Media/01_Picture/Pasted image 20230708095208.png",
+    "{uuid}.png.md",
+    "00_Media/01_Picture/Pasted image 20230707172936.png",
+    "00_Media/01_Picture/Pasted image 20230707170611.png",
+    "00_Media/01_Picture/Pasted image 20230707170541.png",
+    "未命名",
+    "Pro Git - Scott Chacon.md",
+    "02_PaperReading",
+    "01_Project",
+    "00_Media/01_Picture/Pasted image 20230524193554.png",
+    "00_Media",
+    "00_Media/01_Picture/Pasted image 20230524192702.png",
+    "00_Media/01_Picture/Pasted image 20230524192435.png",
+    "00_Media/01_Picture/Pasted image 20230524192049.png",
+    "00_Media/01_Picture/Pasted image 20230524192020.png",
     "06_影视后期/03_素材整理_影视后期工作流.md",
-    "Pasted image 20230524193554.png",
-    "Pasted image 20230524193110.png",
-    "Pasted image 20230524193108.png",
-    "Pasted image 20230524193006.png",
-    "Pasted image 20230524192833.png",
-    "Pasted image 20230524192737.png",
-    "Pasted image 20230524192702.png",
-    "Pasted image 20230524192605.png",
     "06_影视后期/04_影视剪辑_影视后期工作流.md",
     "06_影视后期/02_素材拍摄_影视后期工作流.md",
     "06_影视后期/01_工作流_影视后期.md",
@@ -184,23 +201,8 @@
     "06_影视后期/01_工作流_影视后期",
     "04_五笔输入法/01_Media Archive/01 Literatures/经典五笔教程.pdf",
     "04_五笔输入法/01_Media Archive/01 Literatures/五笔学习完整教程.pdf",
-    "06_影视后期/08_声音效果_影视后期工作流.md",
-    "06_影视后期/09_项目交付_影视后期工作流.md",
-    "06_影视后期/07_影视校色_影视后期工作流.md",
-    "06_影视后期/05_套底_影视后期工作流.md",
     "06_影视后期",
-    "01 Daily notes/2023-05-01-星期一.md",
-    "01 Daily notes",
     "未命名.canvas",
-    "05_git",
-    "02_Knowledge Management/文件管理.md",
-    "01_English/00_文章/03 Failing the poor.md",
-    "04_五笔输入法/五笔输入法.md",
-    "03_驾照/未命名.canvas",
-    "03_驾照/00 大纲/00 大纲.md",
-    "03_驾照/02 科目二/00 考试.md",
-    "03_驾照/02 科目二/01 倒车入库.md",
-    "01_English/01_英语语法综述/03_句型/01_简单句/02_主语 + 单及物动词 + 宾语.md",
-    "01_English/01_英语语法综述/03_句型/01_简单句/03_主语 + 双及物动词 + 间接宾语 + 直接宾语.md"
+    "03_驾照/未命名.canvas"
   ]
 }
