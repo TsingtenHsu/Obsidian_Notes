@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c488eb71944a279b",
+        "id": "ebdcb35290bf84dd",
         "type": "tabs",
         "children": [
           {
-            "id": "b37a6757888fcc95",
+            "id": "74dba500ba5eb7b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00_Template/02_文献笔记模板.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -84,29 +89,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6082a43fbf61ee6e",
+            "id": "2c8396bb2c6e5fe8",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2bc4a42f281ffea7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "00_Template/02_文献笔记模板.md"
               }
             }
           },
@@ -122,13 +110,48 @@
             }
           },
           {
-            "id": "2c8396bb2c6e5fe8",
+            "id": "6082a43fbf61ee6e",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "00_Template/02_文献笔记模板.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
+          {
+            "id": "2bc4a42f281ffea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Template/02_文献笔记模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b3c694acdc780440",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1efa684f57b14f3c",
+        "type": "tabs",
+        "children": [
           {
             "id": "97edb5db52269915",
             "type": "leaf",
@@ -151,11 +174,30 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
   "active": "9d3d21d80c3189c8",
   "lastOpenFiles": [
+    "01_Area/01_交互设计/01_Chinese CHI",
+    "01_Area/02_平面设计",
+    "01_Area/01_交互设计",
+    "00_Template/01_永久笔记模板.md",
+    "00_Template/02_文献笔记模板.md",
+    "02_Resource/01_KnowledgeManagement/知识管理工作流.md",
+    "02_Resource/01_KnowledgeManagement/永久笔记",
+    "02_Resource/KnowledgeManagement/01_文献笔记",
+    "02_Resource/01_KnowledgeManagement",
+    "02_Resource/02_永久笔记",
+    "02_Resource/01_文献笔记",
+    "02_Resource/01_文献笔记/KnowledgeManagement/202307121006_知识管理工作流.md",
+    "03_DailyNote",
+    "02_Resource",
+    "02_Resource/01_文献笔记/KnowledgeManagement",
+    "test.md",
+    "00_Attachment/01_Picture/Pasted image 20230708095208.png",
+    "test2.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/00 课程简介 @媒体信息检索与分析.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/考试作业 @媒体信息检索与分析.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/新媒体艺术史 @刘思捷/平时作业 @新媒体艺术史.md",
@@ -167,41 +209,23 @@
     "03_Course/01_大学/2022-2023/2022-2023-1/设计美学 @郑湛/00 课程简介 @设计美学.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/民间艺术采风 @郑湛/00 课程简介 @民间艺术采风.md",
-    "00_Media/01_Picture/Pasted image 20230519165845.png",
+    "00_Attachment/01_Picture/Pasted image 20230519165845.png",
     "毕设答辩注意点.md",
-    "未命名.md",
-    "00_Media/01_Picture/Pasted image 20230708095208.png",
     "{uuid}.png.md",
-    "00_Media/01_Picture/Pasted image 20230707172936.png",
-    "00_Media/01_Picture/Pasted image 20230707170611.png",
-    "00_Media/01_Picture/Pasted image 20230707170541.png",
-    "未命名",
+    "00_Attachment/01_Picture/Pasted image 20230707172936.png",
+    "00_Attachment/01_Picture/Pasted image 20230707170611.png",
+    "00_Attachment/01_Picture/Pasted image 20230707170541.png",
     "Pro Git - Scott Chacon.md",
-    "02_PaperReading",
-    "01_Project",
-    "00_Media/01_Picture/Pasted image 20230524193554.png",
-    "00_Media",
-    "00_Media/01_Picture/Pasted image 20230524192702.png",
-    "00_Media/01_Picture/Pasted image 20230524192435.png",
-    "00_Media/01_Picture/Pasted image 20230524192049.png",
-    "00_Media/01_Picture/Pasted image 20230524192020.png",
+    "00_Attachment/01_Picture/Pasted image 20230524193554.png",
+    "00_Attachment/01_Picture/Pasted image 20230524192702.png",
+    "00_Attachment/01_Picture/Pasted image 20230524192435.png",
+    "00_Attachment/01_Picture/Pasted image 20230524192049.png",
+    "00_Attachment/01_Picture/Pasted image 20230524192020.png",
     "06_影视后期/03_素材整理_影视后期工作流.md",
     "06_影视后期/04_影视剪辑_影视后期工作流.md",
     "06_影视后期/02_素材拍摄_影视后期工作流.md",
     "06_影视后期/01_工作流_影视后期.md",
     "06_影视后期/06_视觉效果_影视后期工作流.md",
-    "01_English/02_词汇/prone.md",
-    "01_English/01_英语语法综述/02_动词/01_分类/02_辅助构成谓语动词/01_助动词.md",
-    "01_English/01_英语语法综述/02_动词/01_分类/02_辅助构成谓语动词/02_情态动词.md",
-    "01_English/01_英语语法综述/02_动词/01_分类/01 谓语动词/01_实义动词/03_动作动词.md",
-    "01_English/01_英语语法综述/02_动词/01_分类/01 谓语动词/01_实义动词/02_不及物动词.md",
-    "01_English/01_英语语法综述/02_动词/01_分类/01 谓语动词/01_实义动词/01_及物动词.md",
-    "06_影视后期/01_Media Archive",
-    "04_五笔输入法/00_Media archive/未命名",
-    "06_影视后期/01_工作流_影视后期",
-    "04_五笔输入法/01_Media Archive/01 Literatures/经典五笔教程.pdf",
-    "04_五笔输入法/01_Media Archive/01 Literatures/五笔学习完整教程.pdf",
-    "06_影视后期",
     "未命名.canvas",
     "03_驾照/未命名.canvas"
   ]

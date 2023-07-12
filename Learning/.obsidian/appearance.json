@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "AnuPpuccin",
   "translucency": false,
   "theme": "system",
   "baseFontSize": 18,
   "textFontFamily": "",
   "accentColor": "#6b8695",
-  "interfaceFontFamily": "苹方-简"
+  "interfaceFontFamily": "苹方-简",
+  "nativeMenus": false
 }
