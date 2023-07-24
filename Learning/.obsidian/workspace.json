@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebdcb35290bf84dd",
+        "id": "fd096b2539ff0a03",
         "type": "tabs",
         "children": [
           {
-            "id": "74dba500ba5eb7b1",
+            "id": "b37a6757888fcc95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Template/02_文献笔记模板.md",
+                "file": "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "51e78957bcb80343",
+            "id": "1cb9fd542b11069a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,34 +89,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c8396bb2c6e5fe8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00_Template/02_文献笔记模板.md"
-              }
-            }
-          },
-          {
-            "id": "2e026b9385d36b5a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "6082a43fbf61ee6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Template/02_文献笔记模板.md",
-                "collapseAll": true,
+                "file": "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -132,26 +111,33 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Template/02_文献笔记模板.md",
+                "file": "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "b3c694acdc780440",
+            "id": "2e026b9385d36b5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "1efa684f57b14f3c",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "2c8396bb2c6e5fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md"
+              }
+            }
+          },
           {
             "id": "97edb5db52269915",
             "type": "leaf",
@@ -168,35 +154,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "9d3d21d80c3189c8",
+  "active": "b37a6757888fcc95",
   "lastOpenFiles": [
+    "02_Resource/01_KnowledgeManagement/202307121621 卡片笔记法的流程.md",
+    "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
+    "02_Resource/01_KnowledgeManagement/202307121006 知识管理工作流.md",
+    "00_Template/永久笔记模板.md",
+    "00_Template/文献笔记模板.md",
+    "02_Resource/01_KnowledgeManagement/202307232129 艺术学习应该以风格为主还是应该以基础为主.md",
+    "02_Resource/01_KnowledgeManagement/202307232110 英语阅读宏观题目做题技巧.md",
+    "02_Resource/01_KnowledgeManagement/202307232056 英语阅读微观题目做题技巧.md",
+    "02_Resource/01_KnowledgeManagement/202307121649 知识的分类.md",
+    "02_Resource/01_KnowledgeManagement/202307151334 知识体系的规划.md",
+    "未命名.canvas",
+    "00_Attachment/Pasted image 20230723212115.png",
+    "00_Attachment/Pasted image 20230723211749.png",
+    "00_Attachment/Pasted image 20230723211400.png",
+    "01_Area/03_求学/01_考研",
+    "01_Area/03_求学",
+    "未命名.md",
+    "P.A.I.R.md",
+    "00_Attachment/01_Picture/Pasted image 20230524192524.png",
+    "00_Attachment/01_Picture/Pasted image 20230524192115.png",
+    "00_Attachment/01_Picture/Pasted image 20230524192020.png",
+    "00_Attachment/01_Picture/Pasted image 20230519165845.png",
+    "00_Attachment/01_Picture/Pasted image 20230708095208.png",
+    "test.md",
+    "00_Template/日记模板.md",
+    "^.md",
     "01_Area/01_交互设计/01_Chinese CHI",
     "01_Area/02_平面设计",
     "01_Area/01_交互设计",
-    "00_Template/01_永久笔记模板.md",
-    "00_Template/02_文献笔记模板.md",
-    "02_Resource/01_KnowledgeManagement/知识管理工作流.md",
     "02_Resource/01_KnowledgeManagement/永久笔记",
     "02_Resource/KnowledgeManagement/01_文献笔记",
     "02_Resource/01_KnowledgeManagement",
     "02_Resource/02_永久笔记",
     "02_Resource/01_文献笔记",
     "02_Resource/01_文献笔记/KnowledgeManagement/202307121006_知识管理工作流.md",
-    "03_DailyNote",
-    "02_Resource",
-    "02_Resource/01_文献笔记/KnowledgeManagement",
-    "test.md",
-    "00_Attachment/01_Picture/Pasted image 20230708095208.png",
     "test2.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/00 课程简介 @媒体信息检索与分析.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/考试作业 @媒体信息检索与分析.md",
@@ -206,27 +210,8 @@
     "03_Course/01_大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/存档文件 @数字图像处理.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/00 课程简介 @数字图像处理.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/设计美学 @郑湛/结课考试 @设计美学.md",
-    "03_Course/01_大学/2022-2023/2022-2023-1/设计美学 @郑湛/00 课程简介 @设计美学.md",
-    "03_Course/01_大学/2022-2023/2022-2023-1/媒体信息检索与分析 @刘思捷/平时作业 @媒体信息检索与分析.md",
-    "03_Course/01_大学/2022-2023/2022-2023-1/民间艺术采风 @郑湛/00 课程简介 @民间艺术采风.md",
-    "00_Attachment/01_Picture/Pasted image 20230519165845.png",
-    "毕设答辩注意点.md",
-    "{uuid}.png.md",
     "00_Attachment/01_Picture/Pasted image 20230707172936.png",
     "00_Attachment/01_Picture/Pasted image 20230707170611.png",
-    "00_Attachment/01_Picture/Pasted image 20230707170541.png",
-    "Pro Git - Scott Chacon.md",
-    "00_Attachment/01_Picture/Pasted image 20230524193554.png",
-    "00_Attachment/01_Picture/Pasted image 20230524192702.png",
-    "00_Attachment/01_Picture/Pasted image 20230524192435.png",
-    "00_Attachment/01_Picture/Pasted image 20230524192049.png",
-    "00_Attachment/01_Picture/Pasted image 20230524192020.png",
-    "06_影视后期/03_素材整理_影视后期工作流.md",
-    "06_影视后期/04_影视剪辑_影视后期工作流.md",
-    "06_影视后期/02_素材拍摄_影视后期工作流.md",
-    "06_影视后期/01_工作流_影视后期.md",
-    "06_影视后期/06_视觉效果_影视后期工作流.md",
-    "未命名.canvas",
     "03_驾照/未命名.canvas"
   ]
 }
