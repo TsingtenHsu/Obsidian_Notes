@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd096b2539ff0a03",
+        "id": "a966625afab26e62",
         "type": "tabs",
         "children": [
           {
-            "id": "b37a6757888fcc95",
+            "id": "b4be6a54878ded5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
+                "file": "01_Area/03_求学/01_考研/202307232056 英语阅读微观题目做题技巧.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
+                "file": "01_Area/03_求学/01_考研/202307232056 英语阅读微观题目做题技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
+                "file": "01_Area/03_求学/01_考研/202307232056 英语阅读微观题目做题技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md"
+                "file": "01_Area/03_求学/01_考研/202307232056 英语阅读微观题目做题技巧.md"
               }
             }
           },
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,16 +165,22 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b37a6757888fcc95",
+  "active": "b4be6a54878ded5b",
   "lastOpenFiles": [
-    "02_Resource/01_KnowledgeManagement/202307121621 卡片笔记法的流程.md",
+    "01_Area/01_交互设计/202307232129 艺术学习应该以风格为主还是应该以基础为主.md",
+    "01_Area/03_求学/01_考研/202307232056 英语阅读微观题目做题技巧.md",
+    "01_Area/03_求学/01_考研/202307242053 英语阅读理解观点甄别.md",
+    "01_Area/03_求学/01_考研/202307232110 英语阅读宏观题目做题技巧.md",
+    "01_Area/03_求学/01_考研/202307242106 背单词的不同角度.md",
+    "01_Area/03_求学/01_考研/202307242122 英语语句中 and 的构成.md",
+    "00_Attachment/Pasted image 20230724213328.png",
+    "00_Attachment/Pasted image 20230724213135.png",
+    "00_Attachment/Pasted image 20230724213115.png",
     "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
+    "02_Resource/01_KnowledgeManagement/202307121621 卡片笔记法的流程.md",
     "02_Resource/01_KnowledgeManagement/202307121006 知识管理工作流.md",
     "00_Template/永久笔记模板.md",
     "00_Template/文献笔记模板.md",
-    "02_Resource/01_KnowledgeManagement/202307232129 艺术学习应该以风格为主还是应该以基础为主.md",
-    "02_Resource/01_KnowledgeManagement/202307232110 英语阅读宏观题目做题技巧.md",
-    "02_Resource/01_KnowledgeManagement/202307232056 英语阅读微观题目做题技巧.md",
     "02_Resource/01_KnowledgeManagement/202307121649 知识的分类.md",
     "02_Resource/01_KnowledgeManagement/202307151334 知识体系的规划.md",
     "未命名.canvas",
@@ -188,7 +195,6 @@
     "00_Attachment/01_Picture/Pasted image 20230524192115.png",
     "00_Attachment/01_Picture/Pasted image 20230524192020.png",
     "00_Attachment/01_Picture/Pasted image 20230519165845.png",
-    "00_Attachment/01_Picture/Pasted image 20230708095208.png",
     "test.md",
     "00_Template/日记模板.md",
     "^.md",
@@ -207,11 +213,6 @@
     "03_Course/01_大学/2022-2023/2022-2023-1/新媒体艺术史 @刘思捷/平时作业 @新媒体艺术史.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/新媒体艺术史 @刘思捷/00 课程简介 @新媒体艺术史.md",
     "03_Course/01_大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/考试作业 @数字图像处理.md",
-    "03_Course/01_大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/存档文件 @数字图像处理.md",
-    "03_Course/01_大学/2022-2023/2022-2023-1/数字图像处理 @黄鑫/00 课程简介 @数字图像处理.md",
-    "03_Course/01_大学/2022-2023/2022-2023-1/设计美学 @郑湛/结课考试 @设计美学.md",
-    "00_Attachment/01_Picture/Pasted image 20230707172936.png",
-    "00_Attachment/01_Picture/Pasted image 20230707170611.png",
     "03_驾照/未命名.canvas"
   ]
 }
