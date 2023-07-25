@@ -6,5 +6,6 @@
   "textFontFamily": "",
   "accentColor": "#6b8695",
   "interfaceFontFamily": "苹方-简",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showViewHeader": true
 }
