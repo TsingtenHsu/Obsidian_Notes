@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5c3862e238c966b4",
+        "id": "cc6d332fc98ef610",
         "type": "tabs",
         "children": [
           {
-            "id": "c0ff13af4eb00b95",
+            "id": "83d229056e5561d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_Area/03_求学/01_考研/202307301706 英语语法之定语.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Area/03_求学/01_考研/202307301706 英语语法之定语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Area/03_求学/01_考研/202307301706 英语语法之定语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_Area/03_求学/01_考研/202307301706 英语语法之定语.md"
+              }
             }
           },
           {
@@ -137,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,8 +165,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c0ff13af4eb00b95",
+  "active": "83d229056e5561d5",
   "lastOpenFiles": [
+    "01_Area/03_求学/01_考研/202307301636 英语语法之主语和定语的关系.md",
+    "01_Area/03_求学/01_考研/202307301706 英语语法之定语.md",
+    "01_Area/03_求学/01_考研/202307301528 英语语法之整体性名词.md",
+    "01_Area/03_求学/01_考研/202307301501 英语名词之数词.md",
+    "01_Area/03_求学/01_考研/202307251530 英语语法之名词短语.md",
+    "01_Area/03_求学/01_考研/202307252147 考研政治的地位和学习方法.md",
+    "01_Area/03_求学/01_考研/202307261123 英语之感叹句.md",
+    "01_Area/03_求学/01_考研/202307261502 英语可数名词与不可数名词.md",
+    "01_Area/03_求学/01_考研/202307261648 英语之代词.md",
     "01_Area/03_求学/01_考研/202307242106 背单词的不同角度.md",
     "01_Area/03_求学/01_考研/202307242122 英语语句中 and 的构成.md",
     "01_Area/03_求学/01_考研/202307232056 英语阅读微观题目做题技巧.md",
@@ -165,11 +184,6 @@
     "02_Resource/01_KnowledgeManagement/202307121621 卡片笔记法的流程.md",
     "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
     "02_Resource/01_KnowledgeManagement/202307121006 知识管理工作流.md",
-    "01_Area/03_求学/01_考研/202307261648 英语之代词.md",
-    "01_Area/03_求学/01_考研/202307261502 英语可数名词与不可数名词.md",
-    "01_Area/03_求学/01_考研/202307261123 英语之感叹句.md",
-    "01_Area/03_求学/01_考研/202307252147 考研政治的地位和学习方法.md",
-    "01_Area/03_求学/01_考研/202307251530 英语语法之名词短语.md",
     "01_Area/03_求学/01_考研/202307242053 英语阅读理解观点甄别.md",
     "01_Area/03_求学/01_考研/202307232110 英语阅读宏观题目做题技巧.md",
     "00_Template/文献笔记模板.md",
@@ -193,9 +207,6 @@
     "P.A.I.R.md",
     "00_Attachment/01_Picture/Pasted image 20230524192524.png",
     "00_Attachment/01_Picture/Pasted image 20230524192115.png",
-    "test.md",
-    "00_Template/日记模板.md",
-    "^.md",
     "01_Area/01_交互设计/01_Chinese CHI",
     "01_Area/02_平面设计",
     "01_Area/01_交互设计",
@@ -203,7 +214,6 @@
     "02_Resource/KnowledgeManagement/01_文献笔记",
     "02_Resource/01_KnowledgeManagement",
     "02_Resource/02_永久笔记",
-    "02_Resource/01_文献笔记/KnowledgeManagement/202307121006_知识管理工作流.md",
     "03_驾照/未命名.canvas"
   ]
 }
