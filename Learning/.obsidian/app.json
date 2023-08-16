@@ -9,10 +9,7 @@
   "spellcheck": true,
   "showLineNumber": false,
   "livePreview": true,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
