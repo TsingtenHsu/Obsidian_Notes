@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83d229056e5561d5",
+            "id": "dc328ed78671ba48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202308011336 Life Tree Understanding the Design of Breathing Exercise Games.md",
+                "file": "202308201120 Using Breath-like Cues for Guided Breathing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ef4fb6fd5ffda22a",
+            "id": "224b453f8fe7cb80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202308140554 A Serious Videogame as an Additional Therapy Tool for Training Emotional Regulation and Impulsivity Control in Severe Gambling Disorder.md",
+                "file": "01_Area/04_三维设计/202308231432 Blender 基础操作.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202308140554 A Serious Videogame as an Additional Therapy Tool for Training Emotional Regulation and Impulsivity Control in Severe Gambling Disorder.md",
+                "file": "01_Area/04_三维设计/202308231432 Blender 基础操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202308140554 A Serious Videogame as an Additional Therapy Tool for Training Emotional Regulation and Impulsivity Control in Severe Gambling Disorder.md",
+                "file": "01_Area/04_三维设计/202308231432 Blender 基础操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202308140554 A Serious Videogame as an Additional Therapy Tool for Training Emotional Regulation and Impulsivity Control in Severe Gambling Disorder.md"
+                "file": "01_Area/04_三维设计/202308231432 Blender 基础操作.md"
               }
             }
           },
@@ -179,28 +179,39 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ef4fb6fd5ffda22a",
+  "active": "9d3d21d80c3189c8",
   "lastOpenFiles": [
-    "202308131521 A mobile VR-based respiratory biofeedback game to foster diaphragmatic breathing.md",
+    "01_Area/04_建模/未命名",
+    "01_Area/04_三维设计",
+    "00_Attachment/Pasted image 20230823163145.png",
+    "00_Attachment/Pasted image 20230823161844.png",
+    "00_Attachment/Pasted image 20230823161353.png",
+    "00_Attachment/Pasted image 20230823161225.png",
+    "00_Attachment/Pasted image 20230823155802.png",
+    "00_Attachment/Pasted image 20230823155551.png",
+    "00_Attachment/Pasted image 20230823155225.png",
+    "00_Attachment/Pasted image 20230823155007.png",
+    "00_Attachment/Pasted image 20230823154910.png",
+    "00_Attachment/Pasted image 20230823150730.png",
+    "02_Resource/03_Modeling/01_Blender",
+    "202308201120 Using Breath-like Cues for Guided Breathing.md",
+    "01_Area/04_三维设计/202308231432 Blender 基础操作.md",
+    "02_Resource/03_Modeling",
+    "02_Resource/未命名.md",
+    "01_Area/01_交互设计/中科院合作课题/202308011336 Life Tree Understanding the Design of Breathing Exercise Games.md",
     "202308032123 Virtual Reality Cue Refusal Video Game for Alcohol and Cigarette Recovery Support_Summative Study.md",
-    "202308011336 Life Tree Understanding the Design of Breathing Exercise Games.md",
     "202308140554 A Serious Videogame as an Additional Therapy Tool for Training Emotional Regulation and Impulsivity Control in Severe Gambling Disorder.md",
-    "00_Attachment/Pasted image 20230814080957.png",
-    "00_Attachment/Pasted image 20230814080942.png",
-    "00_Attachment/Pasted image 20230814072128.png",
-    "00_Attachment/Pasted image 20230814071414.png",
-    "00_Attachment/Pasted image 20230814054356.png",
-    "00_Attachment/Pasted image 20230814054243.png",
-    "00_Attachment/Pasted image 20230814054058.png",
-    "00_Attachment/Pasted image 20230814053221.png",
-    "00_Attachment/Pasted image 20230814052918.png",
-    "00_Attachment/Pasted image 20230814052909.png",
+    "202308131521 A mobile VR-based respiratory biofeedback game to foster diaphragmatic breathing.md",
+    "02_Resource/02_SurvivePlanning/202308171745 失败的思维方式.md",
+    "02_Resource/02_SurvivePlanning/202308171626 大学四年需要做什么.md",
+    "02_Resource/01_KnowledgeManagement/202307151334 知识体系的规划.md",
+    "02_Resource/02_SurvivePlanning",
+    "00_Template/阅读笔记模板.md",
+    "00_Template/文献笔记模板.md",
     "01_Area/01_交互设计/中科院合作课题",
     "01_Area/03_求学/01_考研/202307252147 考研政治的地位和学习方法.md",
     "01_Area/03_求学/01_考研/202307261502 英语可数名词与不可数名词.md",
     "01_Area/03_求学/01_考研/202307301706 英语语法之定语.md",
-    "00_Template/阅读笔记模板.md",
-    "00_Template/文献笔记模板.md",
     "00_Template/永久笔记模板.md",
     "01_Area/03_求学/01_考研/202307301636 英语语法之主语和定语的关系.md",
     "01_Area/03_求学/01_考研/202307301528 英语语法之整体性名词.md",
@@ -211,22 +222,12 @@
     "01_Area/03_求学/01_考研/202307242106 背单词的不同角度.md",
     "01_Area/03_求学/01_考研/202307242122 英语语句中 and 的构成.md",
     "01_Area/03_求学/01_考研/202307232056 英语阅读微观题目做题技巧.md",
-    "02_Resource/01_KnowledgeManagement/202307151334 知识体系的规划.md",
-    "02_Resource/01_KnowledgeManagement/202307121649 知识的分类.md",
-    "02_Resource/01_KnowledgeManagement/202307121621 卡片笔记法的流程.md",
-    "02_Resource/01_KnowledgeManagement/202307121450 卡片笔记法的分类.md",
-    "02_Resource/01_KnowledgeManagement/202307121006 知识管理工作流.md",
-    "01_Area/03_求学/01_考研/202307242053 英语阅读理解观点甄别.md",
     "01_Area/03_求学/01_考研/永久笔记",
     "未命名.canvas",
     "01_Area/03_求学/01_考研",
     "01_Area/03_求学",
     "01_Area/01_交互设计/01_Chinese CHI",
     "01_Area/02_平面设计",
-    "01_Area/01_交互设计",
-    "02_Resource/01_KnowledgeManagement/永久笔记",
-    "02_Resource/KnowledgeManagement/01_文献笔记",
-    "02_Resource/01_KnowledgeManagement",
     "03_驾照/未命名.canvas"
   ]
 }
