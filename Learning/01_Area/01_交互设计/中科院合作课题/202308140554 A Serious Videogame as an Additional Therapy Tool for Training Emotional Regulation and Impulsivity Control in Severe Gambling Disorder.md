@@ -1,7 +1,7 @@
 202308140554
-Keywords: 
-Themes: 
-Citation Key: 
+Keywords: #VideoGame #GamblingDisorder #VideoGameTherapy 
+Themes: [[赌博障碍电子游戏疗法]]
+Citation Key: tarregaSeriousVideogameAdditional2015
 
 --- 
 # A Serious Videogame as an Additional Therapy Tool for Training Emotional Regulation and Impulsivity Control in Severe Gambling Disorder

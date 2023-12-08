@@ -1,7 +1,7 @@
 202308131521
-Keywords: 
-Themes: 
-Citation Key: 
+Keywords: #VirtualReality #BiofeedbackGame #DiaphragmaticBreathing 
+Themes: [[呼吸生物反馈游戏]]
+Citation Key: rockstrohMobileVRbasedRespiratory2021
 
 --- 
 # A mobile VR-based respiratory biofeedback game to foster diaphragmatic breathing
