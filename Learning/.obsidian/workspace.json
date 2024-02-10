@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "388606bc2ef25024",
+        "id": "44d320a526d60fad",
         "type": "tabs",
         "children": [
           {
-            "id": "b37a6757888fcc95",
+            "id": "238f2b04f54e18e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -84,11 +89,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6082a43fbf61ee6e",
+            "id": "aea182516ce52095",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +133,44 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md"
+              }
+            }
+          },
+          {
+            "id": "38d06408f43b3f90",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
             }
           },
           {
@@ -143,11 +187,14 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,49 +202,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:创建时间戳笔记": false,
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "6082a43fbf61ee6e",
+  "active": "238f2b04f54e18e3",
   "lastOpenFiles": [
-    "202311161314 呼吸生物反馈游戏设计.md",
-    "01_Area/01_交互设计/中科院合作课题/202308131521 A mobile VR-based respiratory biofeedback game to foster diaphragmatic breathing.md",
-    "01_Area/01_交互设计/中科院合作课题/202308011336 Life Tree Understanding the Design of Breathing Exercise Games.md",
-    "01_Area/01_交互设计/中科院合作课题/202308032123 Virtual Reality Cue Refusal Video Game for Alcohol and Cigarette Recovery Support_Summative Study.md",
-    "202311021121 ReWIND_A CBT-Based Serious Game to Improve Cognitive Emotion Regulation and Anxiety Disorder.md",
-    "202310051454 Blender 教程.md",
-    "01_Area/01_交互设计/中科院合作课题/202308272334 The training game SALIENCE for the therapy of alcohol use disorder.md",
-    "01_Area/01_交互设计/中科院合作课题/202308201120 Using Breath-like Cues for Guided Breathing.md",
-    "202310081419 高效能人士的七个习惯阅读笔记.md",
-    "02_Resource/02_PersonalGrowth/202308171626 大学四年需要做什么.md",
-    "01_Area/04_三维设计/202309231359 Blender 基础操作.md",
-    "01_Area/04_三维设计/202308231432 Blender 基础操作.md",
-    "polyhaven.com.md",
-    "textures.com.md",
-    "01_Area/04_三维设计/202309041413 动态图形设计Ⅱ第一节课笔记.md",
-    "01_Area/04_三维设计/202308241716 Blender 基础教程.md",
-    "01_Area/04_三维设计/202309191947 Blender 基础操作.md",
-    "01_Area/01_交互设计/中科院合作课题/202308140554 A Serious Videogame as an Additional Therapy Tool for Training Emotional Regulation and Impulsivity Control in Severe Gambling Disorder.md",
-    "00_Template/阅读笔记模板.md",
-    "02_Resource/02_PersonalGrowth/202308171745 失败的思维方式.md",
-    "01_Area/04_三维设计/202309040800 程序设计开发第一节课笔记.md",
-    "01_Area/04_三维设计/202309060805 程序设计开发第二节课笔记.md",
-    "01_Area/04_三维设计/202309070805 程序设计开发第三节课.md",
-    "00_Template/课堂笔记模板.md",
-    "00_Template/永久笔记模板.md",
+    "02_Resource/02_PersonalGrowth/202402011603 学习做一个强大的人.md",
+    "02_Resource/02_PersonalGrowth/202401282129 痛苦之身.md",
+    "02_Resource/02_PersonalGrowth/202401282111 利用钟表时间，摆脱心理时间.md",
+    "02_Resource/02_PersonalGrowth/202401241549 无意识情绪认同.md",
+    "02_Resource/02_PersonalGrowth/202401241540 利用思维.md",
+    "02_Resource/02_PersonalGrowth/202401241527 无意识思维认同.md",
+    "02_Resource/02_PersonalGrowth/202401241506 从思维认同和情绪认同中解放.md",
+    "02_Resource/02_PersonalGrowth/202401241453 焦虑.md",
+    "02_Resource/02_PersonalGrowth/202401201433 期待.md",
+    "02_Resource/02_PersonalGrowth/202401201410 痛苦.md",
+    "02_Resource/04_InterpersonalRelationship/202402101711 课题分离.md",
+    "02_Resource/04_InterpersonalRelationship/202402011655 低谷之中对于人际关系的思考.md",
+    "02_Resource/04_InterpersonalRelationship/202402011631 如何成为一个“优秀”的男朋友.md",
+    "02_Resource/04_InterpersonalRelationship/202402011625 性格缺爱的“爱情”.md",
+    "02_Resource/04_InterpersonalRelationship/202402011551 人际关系本质.md",
+    "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
+    "03_DailyNote/写给韭菜姐姐的信.md",
+    "03_DailyNote/202402091752 Friday.md",
+    "03_DailyNote/202402082147 Thursday.md",
+    "03_DailyNote/202402072335 Wednesday.md",
+    "00_Inbox/202401180923 学习做一个强大的人.md",
+    "00_Inbox/202402082159 对人类失望其实是源于不合理的期待.md",
+    "00_Inbox/202402081544 《毛选》中的一些见解.md",
+    "00_Inbox/202402081644 健康的恋爱.md",
+    "00_Inbox/202402081522 关于开悟和过情关.md",
+    "00_Inbox/202402062110 自我接纳是什么.md",
+    "01 Daily notes",
+    "00_Attachment/Pasted image 20240131144229.png",
+    "未命名.canvas",
+    "00_Inbox",
+    "02_Resource/04_InterpersonalRelationship",
+    "02_Resource/02_PersonalGrowth/永久笔记",
+    "02_Resource/02",
     "6f4b56029dfbb514d78b3ae4c5a929f9.par.temp",
     "a244b721705ad49519029a0227fa6e9a.par.temp",
     "第一节课笔记_程序设计开发_V0.1_230904.md'",
     "00_Attachment/Pasted image 20230825172527.png",
-    "02_Resource/01_KnowledgeManagement/202307151334 知识体系的规划.md",
-    "未命名.canvas",
     "01_Area/04_建模/未命名",
     "01_Area/04_三维设计",
     "00_Attachment/Pasted image 20230823163145.png",
@@ -208,12 +262,6 @@
     "00_Attachment/Pasted image 20230823155551.png",
     "00_Attachment/Pasted image 20230823155225.png",
     "00_Attachment/Pasted image 20230823155007.png",
-    "00_Attachment/Pasted image 20230823154910.png",
-    "02_Resource/03_Modeling/01_Blender",
-    "02_Resource/03_Modeling",
-    "02_Resource/02_PersonalGrowth",
-    "01_Area/01_交互设计/中科院合作课题",
-    "01_Area/03_求学/01_考研/永久笔记",
     "03_驾照/未命名.canvas"
   ]
 }

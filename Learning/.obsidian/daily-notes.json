@@ -1,5 +1,5 @@
 {
-  "format": "YYYY-MM-DD-dddd",
+  "format": "YYYYMMDDHHmm dddd",
   "folder": "03_DailyNote",
-  "template": "00_Templates/DailyNote"
+  "template": "00_Template/日记模板"
 }

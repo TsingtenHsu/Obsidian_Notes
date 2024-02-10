@@ -4,7 +4,7 @@
   "wordsPerDot": 250,
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "00 Templates/Daily notes",
-  "weeklyNoteFolder": "01 Daily notes",
+  "weeklyNoteTemplate": "00_Templates/日记模板",
+  "weeklyNoteFolder": "03_DailyNote",
   "localeOverride": "system-default"
 }
