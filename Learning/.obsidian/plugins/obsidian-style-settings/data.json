@@ -75,5 +75,22 @@
   "mado-miniflow@@sidebar-size-right": 270,
   "mado-miniflow@@toggle-sidebar-left-top": false,
   "mado-miniflow@@toggle-sidebar-right-top": false,
-  "mado-miniflow@@toggle-sidebar-fixed-left": true
+  "mado-miniflow@@toggle-sidebar-fixed-left": true,
+  "mado-11@@toggle-wave-background": false,
+  "mado-11@@toggle-sidebar-right-color": false,
+  "mado-11@@toggle-scrollbar-overlay": true,
+  "mado-11@@toggle-easy-toggle": true,
+  "mado-11@@toggle-topright-opacity": false,
+  "mado-11@@toggle-note-animation": true,
+  "mado-11@@toggle-topleft-radius": true,
+  "mado-11@@toggle-titlebar-buttons": false,
+  "mado-11@@toggle-side-ribbons": false,
+  "mado-11@@toggle-sidebar-toggle": false,
+  "mado-11@@toggle-sidebar-buttons": false,
+  "mado-11@@toggle-vault-title": true,
+  "mado-11@@toggle-explorer-indent": true,
+  "mado-11@@toggle-explorer-collapse": true,
+  "mado-11@@toggle-tab-section": false,
+  "mado-miniflow@@toggle-sync-button": false,
+  "mado-miniflow@@toggle-h1-margin-top": true
 }

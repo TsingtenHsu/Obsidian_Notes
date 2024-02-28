@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44d320a526d60fad",
+        "id": "1f04ad3072d3e9e2",
         "type": "tabs",
         "children": [
           {
-            "id": "238f2b04f54e18e3",
+            "id": "00a2ce7e7ab51304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
+                "file": "202402280853.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,9 +50,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
+                "file": "202402280853.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +111,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
+                "file": "202402280853.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "97edb5db52269915",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -129,24 +137,33 @@
             }
           },
           {
-            "id": "2c8396bb2c6e5fe8",
+            "id": "e88058402f87543a",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
               "state": {
-                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9d7d36e09d78b359",
+        "type": "tabs",
+        "children": [
           {
             "id": "38d06408f43b3f90",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
+                "file": "202402280853.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -167,34 +184,29 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.026455489664281927,
+                  "close": true
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6304812fcef573e9",
+        "type": "tabs",
+        "children": [
           {
-            "id": "97edb5db52269915",
+            "id": "2c8396bb2c6e5fe8",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e88058402f87543a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "202402280853.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,34 +225,36 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "238f2b04f54e18e3",
+  "active": "00a2ce7e7ab51304",
   "lastOpenFiles": [
-    "02_Resource/02_PersonalGrowth/202402011603 学习做一个强大的人.md",
-    "02_Resource/02_PersonalGrowth/202401282129 痛苦之身.md",
-    "02_Resource/02_PersonalGrowth/202401282111 利用钟表时间，摆脱心理时间.md",
-    "02_Resource/02_PersonalGrowth/202401241549 无意识情绪认同.md",
-    "02_Resource/02_PersonalGrowth/202401241540 利用思维.md",
-    "02_Resource/02_PersonalGrowth/202401241527 无意识思维认同.md",
-    "02_Resource/02_PersonalGrowth/202401241506 从思维认同和情绪认同中解放.md",
-    "02_Resource/02_PersonalGrowth/202401241453 焦虑.md",
-    "02_Resource/02_PersonalGrowth/202401201433 期待.md",
-    "02_Resource/02_PersonalGrowth/202401201410 痛苦.md",
-    "02_Resource/04_InterpersonalRelationship/202402101711 课题分离.md",
-    "02_Resource/04_InterpersonalRelationship/202402011655 低谷之中对于人际关系的思考.md",
-    "02_Resource/04_InterpersonalRelationship/202402011631 如何成为一个“优秀”的男朋友.md",
-    "02_Resource/04_InterpersonalRelationship/202402011625 性格缺爱的“爱情”.md",
-    "02_Resource/04_InterpersonalRelationship/202402011551 人际关系本质.md",
-    "02_Resource/02_PersonalGrowth/202402101654 生活的方式.md",
-    "03_DailyNote/写给韭菜姐姐的信.md",
-    "03_DailyNote/202402091752 Friday.md",
-    "03_DailyNote/202402082147 Thursday.md",
-    "03_DailyNote/202402072335 Wednesday.md",
-    "00_Inbox/202401180923 学习做一个强大的人.md",
-    "00_Inbox/202402082159 对人类失望其实是源于不合理的期待.md",
-    "00_Inbox/202402081544 《毛选》中的一些见解.md",
-    "00_Inbox/202402081644 健康的恋爱.md",
-    "00_Inbox/202402081522 关于开悟和过情关.md",
-    "00_Inbox/202402062110 自我接纳是什么.md",
+    "00_Inbox/202402272110.md",
+    "202402280853.md",
+    "03_DailyNote/202402272157 Tuesday.md",
+    "00_Inbox/202402272013.md",
+    "00_Template/阅读笔记模板.md",
+    "00_Inbox/202402221510.md",
+    "00_Inbox/202402221735.md",
+    "00_Inbox/202402231009.md",
+    "00_Inbox/202402250734.md",
+    "00_Inbox/202402251847.md",
+    "00_Inbox/202402252003.md",
+    "03_DailyNote/202402262121 Monday.md",
+    "03_DailyNote/202402252117 Sunday.md",
+    "03_DailyNote/202402242231 Saturday.md",
+    "03_DailyNote/202402232151 Friday.md",
+    "03_DailyNote/202402222245 Thursday.md",
+    "03_DailyNote/202402212219 Wednesday.md",
+    "02_Resource/04_InterpersonalRelationship/构筑良好的人际关系需要有边界感和松弛感.md",
+    "02_Resource/04_InterpersonalRelationship/不想被人讨厌是我的人生课题，但是否选择讨厌是他人的人生课题，因此要有被讨厌的勇气.md",
+    "02_Resource/02_PersonalGrowth/人们希望摆脱初始的无力状态就是追求优越性 1.md",
+    "02_Resource/02_PersonalGrowth/优越情结源于无法忍受自卑感而在某些方面尽力表现自己很优秀 1.md",
+    "02_Resource/02_PersonalGrowth/自卑感来源于自己对自己的认知和期待与现实不匹配 1.md",
+    "02_Resource/02_PersonalGrowth/自卑情结是将自卑感作为没有勇气改变的借口 1.md",
+    "02_Resource/04_InterpersonalRelationship/爱是有关自己的人生课题.md",
+    "().md",
+    "00_Inbox/202402131253 《阿德勒心理学》阅读笔记.md",
+    "Untitled.canvas",
+    "04_Output",
     "01 Daily notes",
     "00_Attachment/Pasted image 20240131144229.png",
     "未命名.canvas",
@@ -253,7 +267,6 @@
     "第一节课笔记_程序设计开发_V0.1_230904.md'",
     "00_Attachment/Pasted image 20230825172527.png",
     "01_Area/04_建模/未命名",
-    "01_Area/04_三维设计",
     "00_Attachment/Pasted image 20230823163145.png",
     "00_Attachment/Pasted image 20230823161844.png",
     "00_Attachment/Pasted image 20230823161353.png",
