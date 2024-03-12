@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f04ad3072d3e9e2",
+        "id": "155f19b2fe36cdb2",
         "type": "tabs",
         "children": [
           {
-            "id": "00a2ce7e7ab51304",
+            "id": "78af9f3161f5f498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202402280853.md",
+                "file": "主动使用元认知，是觉醒和快速成长的开始.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "image",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402280853.md",
+                "file": "主动使用元认知，是觉醒和快速成长的开始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +111,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402280853.md",
+                "file": "主动使用元认知，是觉醒和快速成长的开始.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "64a2216834a75b2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "主动使用元认知，是觉醒和快速成长的开始.md"
               }
             }
           },
@@ -137,7 +147,7 @@
             }
           },
           {
-            "id": "e88058402f87543a",
+            "id": "cd6ece5ad3e8fd4e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,14 +171,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202402280853.md",
+                "file": "主动使用元认知，是觉醒和快速成长的开始.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -184,7 +194,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.026455489664281927,
+                  "scale": 1.0881422643088747,
                   "close": true
                 }
               }
@@ -202,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202402280853.md"
+                "file": "主动使用元认知，是觉醒和快速成长的开始.md"
               }
             }
           }
@@ -225,34 +235,35 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "00a2ce7e7ab51304",
+  "active": "78af9f3161f5f498",
   "lastOpenFiles": [
-    "00_Inbox/202402272110.md",
-    "202402280853.md",
-    "03_DailyNote/202402272157 Tuesday.md",
-    "00_Inbox/202402272013.md",
-    "00_Template/阅读笔记模板.md",
+    "03_DailyNote/202403122022 Tuesday.md",
+    "03_DailyNote/202403102127 Sunday.md",
+    "01_Area/01_交互设计/中科院合作课题/202311161314 呼吸生物反馈游戏设计.md",
+    "01_Area/01_交互设计/中科院合作课题/202308011336 Life Tree Understanding the Design of Breathing Exercise Games.md",
+    "01_Area/01_交互设计/中科院合作课题/202308032123 Virtual Reality Cue Refusal Video Game for Alcohol and Cigarette Recovery Support_Summative Study.md",
+    "01_Area/01_交互设计/中科院合作课题/202308131521 A mobile VR-based respiratory biofeedback game to foster diaphragmatic breathing.md",
+    "01_Area/01_交互设计/中科院合作课题/202308140554 A Serious Videogame as an Additional Therapy Tool for Training Emotional Regulation and Impulsivity Control in Severe Gambling Disorder.md",
+    "01_Area/01_交互设计/中科院合作课题/202308201120 Using Breath-like Cues for Guided Breathing.md",
+    "01_Area/01_交互设计/中科院合作课题/202308272334 The training game SALIENCE for the therapy of alcohol use disorder.md",
+    "01_Area/01_交互设计/中科院合作课题/202311021121 ReWIND_A CBT-Based Serious Game to Improve Cognitive Emotion Regulation and Anxiety Disorder.md",
+    "03_DailyNote/202403092056 Saturday.md",
+    "03_DailyNote/202403082144 Friday.md",
+    "主动使用元认知，是觉醒和快速成长的开始.md",
+    "反观自己，是元认知的起点.md",
+    "元认知是对自己的认知和思考过程进行再认知.md",
+    "元认知提高的做法的本质就是，以第三视角审视和观察自己的注意力，并将其集中到自己需要关注的地方.md",
+    "掌握元认知能力和培养习惯一样，需要不断地练习、复盘、再练习.md",
     "00_Inbox/202402221510.md",
-    "00_Inbox/202402221735.md",
-    "00_Inbox/202402231009.md",
-    "00_Inbox/202402250734.md",
-    "00_Inbox/202402251847.md",
-    "00_Inbox/202402252003.md",
-    "03_DailyNote/202402262121 Monday.md",
-    "03_DailyNote/202402252117 Sunday.md",
-    "03_DailyNote/202402242231 Saturday.md",
-    "03_DailyNote/202402232151 Friday.md",
-    "03_DailyNote/202402222245 Thursday.md",
-    "03_DailyNote/202402212219 Wednesday.md",
-    "02_Resource/04_InterpersonalRelationship/构筑良好的人际关系需要有边界感和松弛感.md",
-    "02_Resource/04_InterpersonalRelationship/不想被人讨厌是我的人生课题，但是否选择讨厌是他人的人生课题，因此要有被讨厌的勇气.md",
-    "02_Resource/02_PersonalGrowth/人们希望摆脱初始的无力状态就是追求优越性 1.md",
-    "02_Resource/02_PersonalGrowth/优越情结源于无法忍受自卑感而在某些方面尽力表现自己很优秀 1.md",
-    "02_Resource/02_PersonalGrowth/自卑感来源于自己对自己的认知和期待与现实不匹配 1.md",
-    "02_Resource/02_PersonalGrowth/自卑情结是将自卑感作为没有勇气改变的借口 1.md",
-    "02_Resource/04_InterpersonalRelationship/爱是有关自己的人生课题.md",
-    "().md",
-    "00_Inbox/202402131253 《阿德勒心理学》阅读笔记.md",
+    "00_Inbox/202401311422 创伤后成长.md",
+    "00_Inbox/202308231432 Blender 基础操作.md",
+    "03_DailyNote/202403072254 Thursday.md",
+    "03_DailyNote/202403062256 Wednesday.md",
+    "00_Inbox/202403060954 《少有人走的路4》阅读笔记.md",
+    "00_Inbox/202403030946 《少有人走的路2》阅读笔记.md",
+    "02_Resource/02_PersonalGrowth/利用思维.md",
+    "03_DailyNote/202403052215 Tuesday.md",
+    "成长的过程不是线性上升，而是波浪式上升",
     "Untitled.canvas",
     "04_Output",
     "01 Daily notes",
@@ -266,7 +277,6 @@
     "a244b721705ad49519029a0227fa6e9a.par.temp",
     "第一节课笔记_程序设计开发_V0.1_230904.md'",
     "00_Attachment/Pasted image 20230825172527.png",
-    "01_Area/04_建模/未命名",
     "00_Attachment/Pasted image 20230823163145.png",
     "00_Attachment/Pasted image 20230823161844.png",
     "00_Attachment/Pasted image 20230823161353.png",

@@ -1,11 +1,12 @@
 {
-  "cssTheme": "Mado Miniflow",
+  "cssTheme": "Serenity",
   "translucency": false,
-  "theme": "system",
+  "theme": "moonstone",
   "baseFontSize": 16,
-  "textFontFamily": "",
-  "accentColor": "#6b8695",
+  "textFontFamily": "苹方-简",
+  "accentColor": "#7f9bad",
   "interfaceFontFamily": "苹方-简",
   "nativeMenus": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSizeAction": false
 }
